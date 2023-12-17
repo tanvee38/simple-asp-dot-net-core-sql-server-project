@@ -1,0 +1,1 @@
+simple asp.net core project with sql server
